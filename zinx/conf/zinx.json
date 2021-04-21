@@ -1,0 +1,9 @@
+{
+  "Name": "ZinxServerApp",
+  "Host": "127.0.0.1",
+  "MaxConn": 1,
+  "MaxPackages": 2048,
+  "TcpPort": 9999,
+  "WorkerPoolSize": 10,
+  "MaxWorkerTaskLen": 1024
+}
